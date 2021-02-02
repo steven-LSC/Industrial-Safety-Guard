@@ -1,5 +1,7 @@
 # Industrial-Safety-Guard
 
+![image](https://github.com/steven-LSC/Industrial-Safety-Guard/blob/main/Logo.png)
+
 This is a system for checking workers’ safety equipment and counting hours. It consists of a Line chatbot and a QR code scanner.
 
 * Line Chatbot: We use Line to build user interface, including: uploading selfies, safety equipment checking, QR code generating, encrypt time information.
